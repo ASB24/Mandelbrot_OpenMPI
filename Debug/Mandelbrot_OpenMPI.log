@@ -1,0 +1,4 @@
+﻿  Mandelbrot_OpenMPI.cpp
+D:\Users\alexs\source\repos\Mandelbrot_OpenMPI\Mandelbrot_OpenMPI.cpp(117,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Users\alexs\source\repos\Mandelbrot_OpenMPI\Mandelbrot_OpenMPI.cpp(118,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Mandelbrot_OpenMPI.vcxproj -> D:\Users\alexs\source\repos\Mandelbrot_OpenMPI\Debug\Mandelbrot_OpenMPI.exe
