@@ -20,3 +20,7 @@ Release
 *.vbproj.user
 ipch
 *sdf
+
+#Misc files
+Docs
+*.htm
